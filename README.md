@@ -18,6 +18,6 @@ As informações da Questão 4 estão sendo carregadas da minha API online.
 ## PERGUNTAS ##
 As perguntas estão em arquivo PDF (o qual me foi encaminhado por e-mail) na pasta "PDF-PERGUNTAS".
 
-## AVALIE DE FORMA MAI RÁPIDA!!!!! ###
+## AVALIE DE FORMA MAIS RÁPIDA!!!!! ###
 => http://www.wellingtonweb.com.br/TESTE/index.php Neste Link você terá o sistema rodando ONLINE, caso não queira realizar os passos acima, basta acessar e verificar as Perguntas e Minhas Respostas !!! Aproveite essa Facilidade :).
 
